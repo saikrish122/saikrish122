@@ -94,38 +94,6 @@ A data analysis project focused on exploring trends and extracting insights.
 - **GitHub Repository:** [View Project Code](https://github.com/saikrish122/trendpulse-data-analysis)
 - **Technologies:** Python, Pandas, Data Visualization
 
-**Titanic Survival Prediction**
-
-Machine learning project involving:
-
-* Exploratory Data Analysis
-* Data preprocessing
-* Missing-value handling
-* Feature encoding
-* SMOTE / class weighting
-* Logistic Regression
-* Decision Tree
-* Random Forest
-* Model evaluation
-* Model serialization using Joblib
-
----
-
-### 🛒 Zepto AI Support Assistant
-
-A RAG-based customer support assistant built using:
-
-* Python
-* FastAPI
-* ChromaDB
-* Sentence Transformers
-* LangGraph
-* Docker
-
-The application retrieves relevant information from policy documents and provides answers through an API.
-
----
-
 ### 📊 Data Analysis & EDA
 
 Worked on exploratory data analysis projects using:
