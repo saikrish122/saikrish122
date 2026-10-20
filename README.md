@@ -74,6 +74,26 @@ I enjoy solving real-world problems using **Python, Machine Learning, NLP, and G
 
 ### 🤖 AI/ML Projects
 
+## 🚀 My Projects
+
+### 1. Zepto AI Support Assistant
+An AI-powered support assistant built using Python, FastAPI, LangGraph, and ChromaDB.
+
+- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/SAI_KRISHNA_CAPSTONE_PROJECT)
+- **Technologies:** Python, FastAPI, LangGraph, ChromaDB
+
+### 2. TMDB Movie Data Analysis
+Exploratory data analysis of movie data to identify trends and patterns.
+
+- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/tmdb_movie_eda)
+- **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+### 3. TrendPulse Data Analysis
+A data analysis project focused on exploring trends and extracting insights.
+
+- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/trendpulse-data-analysis)
+- **Technologies:** Python, Pandas, Data Visualization
+
 **Titanic Survival Prediction**
 
 Machine learning project involving:
