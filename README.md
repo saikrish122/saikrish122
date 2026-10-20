@@ -85,13 +85,13 @@ An AI-powered support assistant built using Python, FastAPI, LangGraph, and Chro
 ### 2. TMDB Movie Data Analysis
 Exploratory data analysis of movie data to identify trends and patterns.
 
-- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/tmdb_movie_eda)
+- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/tmdb_movie_eda.git)
 - **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ### 3. TrendPulse Data Analysis
 A data analysis project focused on exploring trends and extracting insights.
 
-- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/trendpulse-data-analysis)
+- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/trendpulse-data-analysis.git)
 - **Technologies:** Python, Pandas, Data Visualization
 
 ### 📊 Data Analysis & EDA
