@@ -79,7 +79,7 @@ I enjoy solving real-world problems using **Python, Machine Learning, NLP, and G
 ### 1. Zepto AI Support Assistant
 An AI-powered support assistant built using Python, FastAPI, LangGraph, and ChromaDB.
 
-- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/)
+- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/zepto_ai-support_assistant.git)
 - **Technologies:** Python, FastAPI, LangGraph, ChromaDB
 
 ### 2. TMDB Movie Data Analysis
