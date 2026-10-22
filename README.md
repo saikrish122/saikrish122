@@ -79,20 +79,50 @@ I enjoy solving real-world problems using **Python, Machine Learning, NLP, and G
 ### 1. Zepto AI Support Assistant
 An AI-powered support assistant built using Python, FastAPI, LangGraph, and ChromaDB.
 
-- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/zepto_ai-support_assistant.git)
 - **Technologies:** Python, FastAPI, LangGraph, ChromaDB
+- 
+- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/zepto_ai-support_assistant.git)
 
-### 2. TMDB Movie Data Analysis
-Exploratory data analysis of movie data to identify trends and patterns.
+## Featured Projects
 
-- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/tmdb_movie_eda.git)
-- **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
+### 2.🍽️ Zomato — Exploratory Data Analysis
+A Python data analysis project that explores Zomato restaurant data to understand restaurant characteristics and customer preferences.
 
-### 3. TrendPulse Data Analysis
-A data analysis project focused on exploring trends and extracting insights.
+- Clean and prepare restaurant data for analysis.
+- Explore ratings, restaurant locations, cuisines, and dining costs.
+- Present findings through charts and visualizations.
 
-- **GitHub Repository:** [View Project Code](https://github.com/saikrish122/trendpulse-data-analysis.git)
-- **Technologies:** Python, Pandas, Data Visualization
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+
+ **GitHub Repository:** [View Repository →](https://github.com/saikrish122/Zomato_EDA_Analysis)
+
+---
+
+### 3.📚 HR Policy — RAG Assistant
+A question-answering project that uses Retrieval-Augmented Generation (RAG) to answer questions using an HR policy document.
+
+- Load the policy document and split its text into smaller chunks.
+- Generate embeddings and store them in ChromaDB.
+- Retrieve relevant policy sections for a user's question.
+- Use a language model to generate an answer with the retrieved context.
+
+**Technologies:** Python, Sentence Transformers, ChromaDB, LLM API, Jupyter Notebook
+
+ **GitHub Repository:** [View Repository →](https://github.com/saikrish122/HR_Policy_RAG)
+
+---
+
+### 4.💳 Credit Card Fraud Detection — Imbalanced Data
+A machine learning project focused on identifying fraudulent credit card transactions in a dataset where fraud cases are much less common than legitimate transactions.
+
+- Explore transaction data and examine class imbalance.
+- Prepare data for classification and apply imbalance-handling techniques.
+- Evaluate fraud detection using precision, recall, F1-score, and a confusion matrix.
+- Examine why accuracy alone can be misleading for imbalanced datasets.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Imbalanced-learn, Matplotlib, Seaborn
+
+ **GitHub Repository:** [View Repository →](https://github.com/saikrish122/Credit_Card_Fraud_Detection_With_Imbalanced_Dataset)
 
 ### 📊 Data Analysis & EDA
 
